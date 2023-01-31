@@ -7,7 +7,6 @@ def intro():
 
 intro()
 
-
 menu = [
 {"name":"Plain Sandwich","price":	175, "category": "snacks"},
 {"name":"Grilled Sandwich","price":	175, "category": "snacks"},
